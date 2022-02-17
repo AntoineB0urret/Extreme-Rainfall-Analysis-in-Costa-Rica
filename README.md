@@ -10,7 +10,7 @@ This project is part of a thesis submitted in the fulfillment of the requirement
 
 ## Project structure
 
-This project contains the code to reproduce results from the report. All the results from this study can be found [here](results). The code is divided into several sections:
+This repository contains the code to reproduce results from the report. All the results from this study can be found [here](results). The [code](code) folder is divided into several sections:
 - the data preprocessing ([code](code/Chapter_1_Intro.R)).
 - the exploratory analysis ([code](code/Chapter_2_Exploratory_Analysis.R)/[figures](results/Figures/chapter_2_exploratory_analysis)).
 - the univariate analysis of extremes with generalized extreme value theory ([code](code/Chapter_3_Univariate_Analysis.R)/[figures](results/Figures/chapter_3_univariate_analysis)).
