@@ -18,6 +18,8 @@ This repository contains the code to reproduce results from the report. All the 
 - the multivariate analysis with non-stationary max-stable processes ([code](code/Chapter_5_Multivariate_Analysis.R)/[figures](results/Figures/chapter_5_multivariate_analysis)).
 - the clustering analysis based on the F-madogram ([code](code/Chapter_6_Clustering_Analysis.R)/[figures](results/Figures/chapter_6_clustering_analysis)).
 
+The main part of the code is written in [R](https://www.r-project.org/), but most of the deep learning models are written in Python, for which the function defintion and the notebooks can be found [here](code/python code).
+
 
 ## Shiny App
 
