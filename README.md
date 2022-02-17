@@ -14,7 +14,7 @@ This repository contains the code to reproduce results from the report. All the 
 - the data preprocessing ([code](code/Chapter_1_Intro.R)).
 - the exploratory analysis ([code](code/Chapter_2_Exploratory_Analysis.R)/[figures](results/Figures/chapter_2_exploratory_analysis)).
 - the univariate analysis of extremes with generalized extreme value theory ([code](code/Chapter_3_Univariate_Analysis.R)/[figures](results/Figures/chapter_3_univariate_analysis)).
-- the bivariate analysis with the Hüsler--Reiss model ([code](code/Chapter_4_Bivariate_Analysis.R)/[figures](results/Figures/chapter_4_bivariate_analysis)).
+- the bivariate analysis with the Hüsler-Reiss model ([code](code/Chapter_4_Bivariate_Analysis.R)/[figures](results/Figures/chapter_4_bivariate_analysis)).
 - the multivariate analysis with non-stationary max-stable processes ([code](code/Chapter_5_Multivariate_Analysis.R)/[figures](results/Figures/chapter_5_multivariate_analysis)).
 - the clustering analysis based on the F-madogram ([code](code/Chapter_6_Clustering_Analysis.R)/[figures](results/Figures/chapter_6_clustering_analysis)).
 
