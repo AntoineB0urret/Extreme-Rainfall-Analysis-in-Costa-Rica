@@ -24,13 +24,3 @@ The main part of the code is written in [R](https://www.r-project.org/), but mos
 ## Shiny App
 
 :construction: In construction... :construction:
-
-## Credits
-
-Antoine Bourret
-
-## Project contribution
-
-Anthony C. Davison
-
-Juan José Leitón-Montero
